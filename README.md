@@ -27,7 +27,7 @@ visionmark 是一个用于图像标注的轻量工具
    - 测试请求接口见 tests/test.py
 
    - 若为桌面/脚本：
-     python app.py
+     python app/main.py
 
    （请根据仓库实际启动脚本替换上述命令）
 
